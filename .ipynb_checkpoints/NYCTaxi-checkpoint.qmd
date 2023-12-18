@@ -1,6 +1,6 @@
 ---
 title: "NYCTaxi"
-author: "홍혜민(202012155)"
+author: "홍혜민"
 format: dashboard
 execute: 
   enabled: true
